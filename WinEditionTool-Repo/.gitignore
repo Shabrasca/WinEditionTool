@@ -1,0 +1,31 @@
+# Historicos e resultados (contem dados de maquinas reais)
+historico*.csv
+resultado_lote_*.csv
+elegibilidade_win11_*.csv
+licenciamento_*.csv
+*.pendentes
+status_ativacao.csv
+maquinas_fora_ocs.csv
+maquinas_incertas.csv
+maquinas_reprocessar.csv
+maquinas_sem_ativacao.csv
+ocs_known_names.csv
+ocs_export_raw.txt
+
+# Build
+WinEditionTool.exe
+*.exe
+build/*.exe
+
+# Pasta gerada em runtime
+WinEditionTool-Files/
+
+# Logs
+*.log
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
