@@ -36,7 +36,7 @@ Invoke-ps2exe -inputFile $src -outputFile $out `
     -title "WinEditionTool" `
     -product "WinEditionTool" `
     -description "Troca a edicao do Windows (Pro -> Education/Enterprise/etc) remotamente" `
-    -company "VirviRamos" `
+    -company "Sua Empresa" `
     -version "1.0.0.0" `
     -requireAdmin
 
